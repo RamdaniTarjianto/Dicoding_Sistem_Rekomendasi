@@ -18,8 +18,6 @@ Cara membuat rekomendasi film dengan menggunakan content based filltering dan co
 #
 #
 #
-#
-#
 ## 2.BUSINESS UNDERSTANDING
 ###### 2.1 PROBLEM STATEMENTS
 - Bagaimana cara membuat sistem rekomendasi film menggunakan teknik Content Based Filtering?
@@ -56,6 +54,7 @@ dapat terlihat bahwa pada data tersebut tidak ada missing value, yang berarti da
 Pada bar plot diatas dapat dilihat bahwa dari 1000 data yang diambil dari files ratings.csv, Ternyata banyak user yang memberikan rating 4 dan 3 pada film yang pernah mereka tonton.
 
 ![](https://raw.githubusercontent.com/RamdaniTarjianto/Dicoding_Sistem_Rekomendasi/main/gambar/visualisasi%202s.PNG)
+#
 Pada bar plot kedua dapat dilihat bahwa dari 100 data yang diambil dari files movies.scv, Ternyata banyak film yang bergenres Drama
 #
 #
