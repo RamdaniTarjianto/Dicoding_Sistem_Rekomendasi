@@ -115,8 +115,9 @@ Setelah kita menjalankan kode di atas, kita akan mendapatkan 10 rekomendasi film
 ![](https://raw.githubusercontent.com/RamdaniTarjianto/Dicoding_Sistem_Rekomendasi/main/gambar/md_cl1.PNG)
 #
 Selanjutnya adalah tahapan compile model menggunakan loss Binary Crossentropy, Optimizer menggunakan adam dengan learning rate = 0.001, dan metrics accuracy menggunakan Root Mean Squared Error (RMSE). Kemudian melakukan training dengan epoch 100 dan batch size 64.
-
+#
 ![](https://raw.githubusercontent.com/RamdaniTarjianto/Dicoding_Sistem_Rekomendasi/main/gambar/md_cl3.PNG)
+#
 Hasil di atas adalah rekomendasi untuk user dengan id 23. Dari output tersebut, membandingkan antara Movies with high ratings from user dan Top 10 movie recommendation untuk user. Beberapa movies rekomendasi memiliki genres yang sesuai dengan rating user
 
 
